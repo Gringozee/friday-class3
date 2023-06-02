@@ -1,0 +1,10 @@
+body{
+    background-color: aliceblue;
+}
+.Header{
+    background-color: #6a6aea;
+    width: 100%;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+}
